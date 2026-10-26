@@ -1,3 +1,13 @@
+// Exericio 2 - Estrutura de decisão (usando código limpo)
+
+//Percorrer uma lista de estados
+// Contendo na planilha
+// Para cada item, verificar se a cidade determinada está presente na lista
+// Printar nome da cidade
+// Caso esteja, avisar
+// Caso não seja o elemento procurado, avisar
+// Número de ordem.
+
 // 1. Função focada apenas em buscar e converter os dados da planilha
 async function buscarDadosCSV(urlCsv) {
   const response = await fetch(urlCsv);
