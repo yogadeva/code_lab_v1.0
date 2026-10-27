@@ -1,4 +1,4 @@
-# Aprendizado Diário em Programação
+# Aprendizado Diário Área Tech
 
 ## Sobre
 Repositório dedicado ao meu aprendizado diário. Aqui registro exercícios
